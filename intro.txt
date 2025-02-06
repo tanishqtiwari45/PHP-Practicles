@@ -1,0 +1,26 @@
+Why What How of PHP:
+
+1. Why: 
+
+. runs on various platforms.
+. has compatible with all servers almost.
+. supports a wide range of databases. 
+. easy to learn and open source available and run effciently on server side. 
+. used for server side scripting. 
+
+2. What:
+
+. Generate dynamic page content.
+. can create, open, read, write, delete and close files in server. 
+. can collect form data. 
+. can send and recieve cookies. 
+. can add, delete and modify data in your database. 
+. can used to control user access. 
+. can encrypt data. 
+. It is powerful enough to be at the core of the biggest blogging system on the web (WordPress)!
+. It is deep enough to run large social networks!
+. It is also easy enough to be a beginner's first server side language!
+
+3. How:
+
+. Download the installer from Apache friends. 

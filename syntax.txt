@@ -1,0 +1,18 @@
+Syntax: 
+
+1. <? php 
+	echo();
+   ?>
+Her, echo is the keyword used for displaying message in server. 
+
+2. Comments in PHP: 
+
+// - single line Comments
+# Also a single line comment. 
+/*  */ - Multi line comment.
+
+3. For Line Break: 
+
+<? php 
+	echo"<br>";
+?>

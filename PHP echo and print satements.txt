@@ -1,0 +1,1 @@
+For displaying the data and values of the variable, we used echo 
